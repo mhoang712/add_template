@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "template uit day 1"      # Project title
+  title:        "template_uit_day_1"      # Project title
   author:       "mhoang"      # Your name
   discord:      "mhoang712"      # Your discord username (optional)
   description:  "chep code"      # One line description of what your project does
